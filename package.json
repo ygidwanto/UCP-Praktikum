@@ -1,0 +1,20 @@
+{
+  "name": "pengelolaan-kolam-renang",
+  "version": "1.0.0",
+  "description": "Aplikasi pengelolaan data wisata kolam renang menggunakan Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
